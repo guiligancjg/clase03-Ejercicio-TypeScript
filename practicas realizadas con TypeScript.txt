@@ -1,0 +1,6 @@
+1. Requisitos
+2. Introducción
+3. Instalación
+4. Primeros pasos
+5. Configurando el Compilador
+6. Depurando TypeScript
